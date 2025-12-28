@@ -1,4 +1,4 @@
-# Hello-world
+## Hi there, I'm Daudi
 Just another repository
 Hi there. 
 I am Daudi and I study computer Information System at Central New Mexico Community College. 
